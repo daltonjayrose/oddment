@@ -5,6 +5,8 @@
 > [!quote-with-source] Socrates (from Plato's Apology)
 > The unexamined life is not worth living.
 
+[[Gaming History]]
+
 With such noise and bustle around us, one cannot help but build a hermitage[^1] in one's mind for contemplation and peace.
 
 This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/) contains some contemplations and musings from my retreats there.
