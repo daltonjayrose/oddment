@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Gaming/Gaming History.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -206,9 +206,9 @@
   },
   "active": "f8c4b92ce13ee26f",
   "lastOpenFiles": [
-    "Gaming/Korean.md",
-    "Gaming/Gaming History.md",
     "The Threshold.md",
+    "Gaming/Gaming History.md",
+    "Gaming/Korean.md",
     "Oddments.md",
     "Gaming"
   ]
