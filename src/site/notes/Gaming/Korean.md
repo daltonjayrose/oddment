@@ -1,5 +1,5 @@
 ---
-title: Gaming History
+title: Korean
 dg-publish: true
 dg-note-icon: "1"
 created: 2026-10-13T23:06:15.177-05:00

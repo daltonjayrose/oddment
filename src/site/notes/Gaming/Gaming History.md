@@ -7,7 +7,9 @@ updated: 2026-10-13T23:06:15.177-05:00
 noteIcon: "1"
 permalink: /gaming/gaming-history/
 dgLinkPreview: "false"
-dg-note-properties: '"updated":"2023-01-14T14:40:11+06:00"'
+dg-note-properties: |2-
+    created: 2026-10-13T23:06:15.177Z
+    updated: 2026-10-13T23:06:15.177Z
 ---
 Test
 
