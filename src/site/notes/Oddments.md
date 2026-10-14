@@ -6,5 +6,6 @@ dg-note-icon: signpost
 dg-hide-in-graph: true
 noteIcon: signpost
 permalink: /oddments/
+dgLinkPreview: "false"
 ---
 Test
