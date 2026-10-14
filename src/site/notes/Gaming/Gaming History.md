@@ -13,4 +13,6 @@ Test
 
 [The Threshold](//The Threshhold)
 
-[[Oddments]]
+[[Oddments|Browse Oddments]]
+
+[Oddments](/oddments/)
