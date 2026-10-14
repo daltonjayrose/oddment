@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaming/Gaming History.md",
+                "file": "Gaming/Korean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaming History"
+              "title": "Korean"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaming/Gaming History.md",
+                "file": "Gaming/Korean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaming/Gaming History.md",
+                "file": "Gaming/Korean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaming/Gaming History.md",
+                "file": "Gaming/Korean.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,9 +206,10 @@
   },
   "active": "f8c4b92ce13ee26f",
   "lastOpenFiles": [
+    "Gaming/Gaming History.md",
+    "Gaming/Korean.md",
     "Oddments.md",
     "The Threshold.md",
-    "Gaming/Gaming History.md",
     "Gaming"
   ]
 }
